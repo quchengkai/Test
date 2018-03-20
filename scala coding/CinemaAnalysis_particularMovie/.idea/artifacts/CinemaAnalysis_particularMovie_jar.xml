@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CinemaAnalysis_particularMovie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CinemaAnalysis_particularMovie_jar</output-path>
+    <root id="archive" name="CinemaAnalysis_particularMovie.jar">
+      <element id="module-output" name="CinemaAnalysis_particularMovie" />
+    </root>
+  </artifact>
+</component>
